@@ -1,0 +1,15 @@
+{
+  "name": "nodemailer_email",
+  "version": "1.0.0",
+  "description": "In this project I am going to implement the things what I learnt and how to send email with the help of nodemailer.",
+  "main": "sendEmail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nilesh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.14"
+  }
+}
